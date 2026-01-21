@@ -18,3 +18,32 @@ Thus, this project aim to **build a predictive model that determine whether a bu
  - Other organizational  and structural condition available **beforeany claim occurs**
 
 Traget variable represent whether **at least one insurance claim** was reported during the insurance period.
+
+ ### Data Source
+ 
+ The data used for this **Machine Learning** project is provided by the consortium instructors and the admin (my assumption) at the **AI NOW BOOT CAMP** an offshoot programme of the **INCUBATOR HUB**.
+
+ ### Tools Used
+ 
+  - Microsoft Visual Studio code editor,
+     - used for providing platform and extension that provide the  kernel base, python terminal,gitbash etc
+  - Python Kernel/server
+     - for importing Scikit-Learn, XGBoost,Numpy and Pandas Libraries etc.
+  - Git bash/version control
+     - this tool ensure safety, collaboration and tracking changes.
+   
+ ### Data Cleaning and Preprocessing
+
+ After importing neccesary libraries in to the python environment the following task were perfom:
+  - Data loading, description and inspection
+  - Handling missing,duplicates and data conversion
+  - Removing Outliers,determining level of correlation, Scaling and normalisation
+
+### Explorative Data Analysis
+
+The target variable has two 
+ 
+ 
+
+ 
+ 
